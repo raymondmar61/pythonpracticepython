@@ -1,0 +1,2 @@
+Hello!How are you doing?  Today is a good day.Paragraph break 
+Am I in a new paragraph?
